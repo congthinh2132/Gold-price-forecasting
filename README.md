@@ -1,6 +1,5 @@
 # Gold_price_forecasting
 
-## Gold Price Forecasting 
 This project investigates the use of machine learning models to forecast gold prices based on historical data.
 
 **Objective:**
